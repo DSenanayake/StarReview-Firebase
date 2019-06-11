@@ -1,0 +1,8 @@
+div.star-reviews h2, div.star-reviews .new-review h2{
+    font-family: Arial
+}
+
+div.star-reviews .review-box{
+    border:2px solid grey;
+    border-radius: 4px
+}
